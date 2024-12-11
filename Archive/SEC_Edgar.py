@@ -150,12 +150,12 @@ if __name__ == '__main__':
 
     #Get CIK for Each of Companies
     companyNames = [
-        "Apple Inc",
-        "Johnson & Johnson",
-        "JPMorgan Chase",
-        "Exxon",
-        "Lockheed Martin",
-        "NVIDIA CORP"
+        "Walmart Inc.",
+        "BOEING CO",
+        "COCA COLA CO",
+        "UNITEDHEALTH GROUP INC",
+        "NETFLIX INC",
+        "HOME DEPOT, INC."
     ]
 
     #Determine Company CIK from Name
